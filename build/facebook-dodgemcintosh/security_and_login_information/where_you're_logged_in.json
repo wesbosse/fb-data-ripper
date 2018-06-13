@@ -1,0 +1,82 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1513474017,
+      "updated_timestamp": 1526355785,
+      "ip_address": "2600:1700:56a0:73f0:d1ff:10c5:3705:400b",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+      "datr_cookie": "zMc1********************",
+      "device": "Mac",
+      "location": "Ramona, CA, United States"
+    },
+    {
+      "name": "Unknown",
+      "created_timestamp": 1412899642,
+      "updated_timestamp": 1526321118,
+      "ip_address": "2600:1700:56a0:73f0:5862:3ddc:39bf:a7cb",
+      "user_agent": "Mac+OS+X/10.11.6 (15G20015) CalendarAgent/361.2",
+      "datr_cookie": "3s_5********************",
+      "device": "Device type unknown",
+      "location": "Ramona, CA, United States"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1496817925,
+      "updated_timestamp": 1526235746,
+      "ip_address": "70.179.8.219",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 [FBAN/MessengerForiOS;FBAV/164.0.0.60.91;FBBV/105889540;FBDV/iPhone6,1;FBMD/iPhone;FBSN/iOS;FBSV/10.3.3;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]",
+      "datr_cookie": "YoL4********************",
+      "device": "iPhone 5s",
+      "location": "Ramona, CA, United States"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1496817844,
+      "updated_timestamp": 1526170036,
+      "ip_address": "108.239.9.167",
+      "user_agent": "Facebook/106613464 CFNetwork/811.5.4 Darwin/16.7.0",
+      "datr_cookie": "tKA3********************",
+      "device": "iPhone",
+      "location": "Ramona, CA, United States"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1496791344,
+      "ip_address": "12.186.238.14",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Mobile/14E304 [FBAN/FBIOS;FBAV/95.0.0.54.70;FBBV/59901094;FBDV/iPhone6,1;FBMD/iPhone;FBSN/iOS;FBSV/10.3.1;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]",
+      "datr_cookie": "c8AJ********************",
+      "device": "iPhone 5s",
+      "location": "Los Angeles, CA, United States"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1496769811,
+      "ip_address": "107.77.229.106",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Mobile/14E304 [FBAN/MessengerForiOS;FBAV/120.0.0.48.70;FBBV/59774553;FBDV/iPhone6,1;FBMD/iPhone;FBSN/iOS;FBSV/10.3.1;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]",
+      "datr_cookie": "c8AJ********************",
+      "device": "iPhone 5s",
+      "location": "Los Angeles, CA, United States"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1405638586,
+      "updated_timestamp": 1496359814,
+      "ip_address": "76.91.112.112",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 [FBAN/MessengerForiOS;FBAV/119.0.0.45.70;FBBV/58958965;FBDV/iPhone5,1;FBMD/iPhone;FBSN/iOS;FBSV/10.3.2;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]",
+      "datr_cookie": "hqMw********************",
+      "device": "iPhone 5",
+      "location": "Claremont, CA, United States"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1422598187,
+      "updated_timestamp": 1496337428,
+      "ip_address": "107.77.230.144",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 [FBAN/FBIOS;FBAV/94.0.0.49.70;FBBV/59086490;FBDV/iPhone5,1;FBMD/iPhone;FBSN/iOS;FBSV/10.3.2;FBSS/2;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]",
+      "datr_cookie": "0c7l********************",
+      "device": "iPhone 5",
+      "location": "Los Angeles, CA, United States"
+    }
+  ]
+}

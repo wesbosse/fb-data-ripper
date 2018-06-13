@@ -1,0 +1,22 @@
+{
+  "searches": [
+    {
+      "timestamp": 1526009085,
+      "data": [
+        {
+          "text": "adam joseph"
+        }
+      ],
+      "title": "You searched for adam joseph"
+    },
+    {
+      "timestamp": 1526009058,
+      "data": [
+        {
+          "text": "Adam Joseph"
+        }
+      ],
+      "title": "You searched for Adam Joseph"
+    }
+  ]
+}

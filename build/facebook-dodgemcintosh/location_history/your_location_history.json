@@ -1,0 +1,51 @@
+{
+  "location_history": [
+    {
+      "timestamp": 1520431199,
+      "attachments": [
+        {
+          "data": [
+            {
+              "place": {
+                "coordinate": {
+                  "latitude": 34.04748,
+                  "longitude": -118.46538
+                },
+                "creation_time": 1520475499
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Dodge McIntosh was in Los Angeles"
+    },
+    {
+      "timestamp": 1415019599,
+      "attachments": [
+        {
+          "data": [
+            {
+              "place": {
+                "coordinate": {
+                  "latitude": 25.7768,
+                  "longitude": -80.13199
+                },
+                "creation_time": 1415060750
+              }
+            },
+            {
+              "place": {
+                "coordinate": {
+                  "latitude": 25.7768,
+                  "longitude": -80.13199
+                },
+                "creation_time": 1415058837
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Dodge McIntosh was in Miami Beach"
+    }
+  ]
+}

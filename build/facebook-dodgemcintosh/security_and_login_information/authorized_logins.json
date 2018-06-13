@@ -1,0 +1,11 @@
+{
+  "recognized_devices": [
+    {
+      "name": "Facebook for iPhone",
+      "created_timestamp": 0,
+      "updated_timestamp": 1384363264,
+      "ip_address": "108.239.9.167",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501 [FBAN/FBIOS;FBAV/6.7.1;FBBV/583225;FBDV/iPhone5,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.2;FBSS/2; FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5]"
+    }
+  ]
+}
