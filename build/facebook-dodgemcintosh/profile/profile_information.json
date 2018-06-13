@@ -1,0 +1,316 @@
+{
+  "profile": {
+    "name": "Dodge McIntosh",
+    "emails": {
+      "emails": [
+        "dodge.teamyellow@gmail.com",
+        "dmcintosh@ucla.edu",
+        "dhemipower09@yahoo.com"
+      ],
+      "previous_emails": [
+        "dodge.mcintosh@facebook.com"
+      ]
+    },
+    "birthday": {
+      "year": 1992,
+      "month": 2,
+      "day": 12
+    },
+    "gender": {
+      "gender_option": "MALE",
+      "pronoun": "MALE"
+    },
+    "current_city": "Westwood, California",
+    "hometown": "Ramona, California",
+    "relationship": {
+      "status": "In a relationship",
+      "partner": "Jenn FromDablock"
+    },
+    "previous_relationships": [
+      "Taylor Schwuchow"
+    ],
+    "family_members": [
+      {
+        "name": "Nancy S McIntosh",
+        "relation": "Mother"
+      },
+      {
+        "name": "Amy Villanueva",
+        "relation": "Sister"
+      },
+      {
+        "name": "Aaron Lambert",
+        "relation": "Brother"
+      },
+      {
+        "name": "Boone Mcintosh",
+        "relation": "Brother"
+      },
+      {
+        "name": "Whitney Elle",
+        "relation": "Cousin"
+      },
+      {
+        "name": "Carter Hollenbach",
+        "relation": "Cousin"
+      }
+    ],
+    "education_experiences": [
+      {
+        "name": "Ramona High",
+        "end_date": {
+          "year": 2009
+        },
+        "graduated": true
+      },
+      {
+        "name": "UCLA",
+        "end_date": {
+          "year": 2013
+        },
+        "graduated": true
+      },
+      {
+        "name": "University of California, Los Angeles",
+        "graduated": true
+      }
+    ],
+    "work_experiences": [
+      {
+        "employer": "G'Audio Lab",
+        "title": "Brand & Media Manager",
+        "location": "Los Angeles, California"
+      },
+      {
+        "employer": "Bespoke Mobile",
+        "title": "President",
+        "location": "San Diego, California"
+      },
+      {
+        "employer": "Iddiction",
+        "end_date": {
+          "year": 2014,
+          "month": 7
+        }
+      }
+    ],
+    "languages": [
+      "English language",
+      "Espa\u00c3\u00b1ol",
+      "Arabic"
+    ],
+    "interested_in": [
+      "FEMALE"
+    ],
+    "address": {
+      "city": "Ramona",
+      "country": "United States",
+      "country_code": "US",
+      "region": "CA"
+    },
+    "phone_numbers": [
+      {
+        "phone_type": "Mobile",
+        "phone_number": "(760) 390-8873",
+        "verified": true
+      }
+    ],
+    "about_me": "\"Make each day your masterpiece.\"\r\n-John Wooden\r\n\r\nUCLA\r\n\u00ce\u00a3\u00ce\u00a7",
+    "pages": [
+      {
+        "name": "Activities",
+        "pages": [
+          "School",
+          "Going Clubbing"
+        ]
+      },
+      {
+        "name": "Interests",
+        "pages": [
+          "Beach Going",
+          "Beach"
+        ]
+      },
+      {
+        "name": "Music",
+        "pages": [
+          "Natalie Rose",
+          "Outkast",
+          "Lupe Fiasco",
+          "ASAP Rocky",
+          "Jhen\u00c3\u00a9 Aiko",
+          "The Weeknd",
+          "Donald Glover",
+          "mothdrops",
+          "Bruin Harmony",
+          "M Dub",
+          "B.o.B.",
+          "Ludacris",
+          "Eminem",
+          "Kid Cudi",
+          "Rap & Hip Hop",
+          "Yung Skeeter"
+        ]
+      },
+      {
+        "name": "Movies",
+        "pages": [
+          "Man On Fire",
+          "Zoolander 2",
+          "Gladiator",
+          "Man on Fire",
+          "Yes Man",
+          "Anchorman",
+          "Night at the Roxbury",
+          "Zoolander",
+          "Anchorman (film)",
+          "Coach Carter",
+          "Gladiator"
+        ]
+      },
+      {
+        "name": "Television",
+        "pages": [
+          "2KSlam",
+          "Nsfym (Not Safe For Your Mom)",
+          "SportsCenter",
+          "Always Sunny in Philadelphia",
+          "Tosh.0",
+          "The Office"
+        ]
+      },
+      {
+        "name": "Other",
+        "pages": [
+          "Jonathan Hawkins - Amavi Properties",
+          "Awbrey Rose Gould",
+          "Tommy and Atticus",
+          "WOW air",
+          "G'Audio Lab",
+          "The Blackbird Academy",
+          "UCLA Athletics",
+          "UCLA Men's Basketball",
+          "Justina Coelho",
+          "Lake Tahoe AleWorX",
+          "The Motivation Report",
+          "Foot of the Bed Cellars",
+          "Include Autism",
+          "good\u00c3\u009c",
+          "It's All Good",
+          "Samahang Modern",
+          "Carly's Cookies",
+          "Chasing Summer Productions",
+          "Sepi's @ UCLA",
+          "Hood Brew",
+          "Arcanum Glacier Tours",
+          "Bay Area Dance Marathon",
+          "David Crane",
+          "Universal Pictures UCLA",
+          "NextDraft",
+          "Nikki Kay KFOR",
+          "Madi Krause Photography",
+          "DRUNK TANK: the Musical",
+          "Ben Goldsmith",
+          "UCLA Alumni",
+          "UCLA BRUIN WOODS",
+          "Xplode",
+          "Gramr Gratitude Co.",
+          "KARMAKarma",
+          "GoPro",
+          "Andi Hester",
+          "Suites on Paseo - Apartments near SDSU",
+          "UCLA Kappa Kappa Gamma",
+          "UCLA Kappa Alpha Theta",
+          "The Sigma Chi Fraternity - Delta Eta Chapter",
+          "Sports Spectacular",
+          "Isaac Yang UCLA Neurosurgery",
+          "Ramona, California",
+          "UCLA Chi Omega",
+          "WeSC (We Are the Superlative Conspiracy)",
+          "CollegeHumor",
+          "Souplantation/Sweet Tomatoes",
+          "UCLA",
+          "The D.E.N.N.I.S. System",
+          "Brodie Kaster",
+          "The 760",
+          "CASL (California Association of Student Leaders)",
+          "Vevo",
+          "Bruins United",
+          "365 things to do in San Diego, CA"
+        ]
+      },
+      {
+        "name": "Websites",
+        "pages": [
+          "Kale+Cat",
+          "The Stoop Kids"
+        ]
+      }
+    ],
+    "groups": [
+      "Pediatric AIDS Coalition Alumni",
+      "General Assembly Global Alumni",
+      "GA LA Alumni",
+      "UCLA TAILGATE 2017!",
+      "Going Places - Young Kind Conscious Travel",
+      "VR Content Creators and Creations",
+      "ProTools and Plugins Users",
+      "Spatial (3D) Audio - G'Audio Community",
+      "G.A.N.G. - Game Audio Network Guild",
+      "Hollywood VR",
+      "Facebook 360 Spatial Workstation",
+      "Spatial Audio in VR/AR/MR",
+      "The Pacific Crest Trail Class of 2016",
+      "PCT Class of 2016",
+      "Official Fail 09 Fantasy Football Group",
+      "The Buhl Cave",
+      "UCLA Funlumni",
+      "Carly Greer Schlocker-Migdal's Spring Break Extravaganza 2015",
+      "Christopher Schlocker-Migdal and some bitches",
+      "Bruin Woods",
+      "Game Night Classics",
+      "8 Man Alpha Male Celebration/prolly hooked up with you at some point PARTY",
+      "Class of 2013",
+      "UCLA",
+      "Let's Go Running",
+      "San Diego Backpacking, Camping, & Hiking",
+      "Sigma Chi at UCLA: Delta Eta Alumni",
+      "\u00c2\u00a1BW STAFF 2013!",
+      "Ragecoach 2013",
+      "TEAM YELLOW DM 2013!!!",
+      "DRel Family",
+      "Greek Week 2013",
+      "Cabo wabo 2014",
+      "Pediatric AIDS Coalition 2013 Committee",
+      "Baygo to Cal",
+      "Help Me Surprise Fadi! New Secret Group",
+      "NEW PHONE- NEED DIGITS",
+      "Sigma Chi Wins Theta Shootout",
+      "Hittin the Casino Up 1.5",
+      "Show Me Your B-Dubs! (IM Softball 2012)",
+      "BRUIN WOODS STAFF 2012",
+      "Sigma Chi Spring Rush 2012",
+      "Tough Mudder Vegas: Hittin' tha casino up again",
+      "TEAM YELLOW-DANCE MARATHON...get it",
+      "GREEK WEEK TEAM RED",
+      "Keep It Up! (BW IM BBALL TEAM)",
+      "Arabic at UCLA",
+      "Beer Bus for Saturday's Game",
+      "EmRez4Prez Campaign Team",
+      "Sigma Chi Spring Rush 2011",
+      "BRUIN WOODS 2011",
+      "Tahoe New Year's '10-'11",
+      "Urgent! DM Needs $ For DM!",
+      "UCLA Class of 2013",
+      "Ramona High School Boys and Girls Alumni Basketball",
+      "Najveca grupa na Fejsbuku",
+      "Sunday Bocce League",
+      "Migdal for President:  Fantasy Basketball 1.5",
+      "We should definitely hit the casino up. again.",
+      "The Nobles Fan Club",
+      "ileftword entertainment, LLC."
+    ],
+    "registration_timestamp": 1183004899,
+    "profile_uri": "https://www.facebook.com/dodge.mcintosh"
+  }
+}

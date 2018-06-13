@@ -1,0 +1,24 @@
+{
+  "poll_votes": [
+    {
+      "timestamp": 1514334543,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Leaving Jan 2 (2 nights)",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Dodge McIntosh voted on Mitch Krause's poll."
+    }
+  ]
+}

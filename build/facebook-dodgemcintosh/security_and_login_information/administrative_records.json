@@ -1,0 +1,196 @@
+{
+  "admin_records": [
+    {
+      "event": "Username",
+      "session": {
+        "created_timestamp": 1487730111,
+        "updated_timestamp": 0,
+        "ip_address": "2605:e000:9a8b:b600:e91f:cba9:fd14:2ecc"
+      }
+    },
+    {
+      "event": "Changing Group Admin",
+      "session": {
+        "created_timestamp": 1458167194,
+        "updated_timestamp": 0,
+        "ip_address": "71.160.25.209"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1378853194,
+        "updated_timestamp": 0,
+        "ip_address": "108.239.9.167"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1366251973,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1361474840,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1361178942,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1360953895,
+        "updated_timestamp": 0,
+        "ip_address": "131.179.53.160"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1360878186,
+        "updated_timestamp": 0,
+        "ip_address": "131.179.53.106"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1360825339,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1358209932,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1357326635,
+        "updated_timestamp": 0,
+        "ip_address": "108.239.9.167"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1355088984,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1354931363,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1354777870,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1354690171,
+        "updated_timestamp": 0,
+        "ip_address": "76.168.123.20"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1353401166,
+        "updated_timestamp": 0,
+        "ip_address": "131.179.20.250"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1348375883,
+        "updated_timestamp": 0,
+        "ip_address": "198.72.193.73"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1348302478,
+        "updated_timestamp": 0,
+        "ip_address": "198.72.193.73"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1346952781,
+        "updated_timestamp": 0,
+        "ip_address": "76.212.139.187"
+      }
+    },
+    {
+      "event": "Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1344035882,
+        "updated_timestamp": 0,
+        "ip_address": "169.232.74.53"
+      }
+    },
+    {
+      "event": "Birthday Change",
+      "session": {
+        "created_timestamp": 1305794802,
+        "updated_timestamp": 0,
+        "ip_address": "96.251.15.235"
+      }
+    },
+    {
+      "event": "Birthday Change",
+      "session": {
+        "created_timestamp": 1305767016,
+        "updated_timestamp": 0,
+        "ip_address": "96.251.15.235"
+      }
+    },
+    {
+      "event": "Security question and response changed",
+      "session": {
+        "created_timestamp": 1294431056,
+        "updated_timestamp": 0,
+        "ip_address": "164.67.59.116"
+      }
+    },
+    {
+      "event": "Network Change for User",
+      "session": {
+        "created_timestamp": 1251596637,
+        "updated_timestamp": 0,
+        "ip_address": "76.216.115.20"
+      }
+    }
+  ]
+}
