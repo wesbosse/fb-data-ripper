@@ -1,0 +1,58 @@
+{
+  "account_accesses": [
+    {
+      "action": "Login",
+      "timestamp": 1524862547,
+      "site": "Tinder",
+      "ip_address": "98.176.89.61"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1523135592,
+      "site": "www.facebook.com",
+      "ip_address": "172.91.76.65"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1523124737,
+      "site": "Spotify",
+      "ip_address": "99.203.10.35"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1518559641,
+      "site": "SoundCloud",
+      "ip_address": "71.177.221.212"
+    },
+    {
+      "action": "Log Out",
+      "timestamp": 1517900695,
+      "site": "m.facebook.com",
+      "ip_address": "172.91.76.65"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1517900429,
+      "site": "Tinder",
+      "ip_address": "172.91.76.65"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1515995225,
+      "site": "m.facebook.com",
+      "ip_address": "172.91.76.65"
+    },
+    {
+      "action": "Log Out",
+      "timestamp": 1496163324,
+      "site": "www.facebook.com",
+      "ip_address": "207.114.171.26"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1496163288,
+      "site": "www.facebook.com",
+      "ip_address": "207.114.171.26"
+    }
+  ]
+}

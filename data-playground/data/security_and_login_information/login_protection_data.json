@@ -1,0 +1,155 @@
+{
+  "login_protection_data": [
+    {
+      "name": "Cookie: FLhw********************",
+      "session": {
+        "created_timestamp": 1518559640,
+        "updated_timestamp": 1524582712
+      }
+    },
+    {
+      "name": "Cookie: P0Bc********************",
+      "session": {
+        "created_timestamp": 1515995223,
+        "updated_timestamp": 1523766637
+      }
+    },
+    {
+      "name": "Cookie: 61ZV********************",
+      "session": {
+        "created_timestamp": 1523135591
+      }
+    },
+    {
+      "name": "Cookie: -QnJ********************",
+      "session": {
+        "created_timestamp": 1523124736
+      }
+    },
+    {
+      "name": "Cookie: GTIL********************",
+      "session": {
+        "created_timestamp": 1517900428
+      }
+    },
+    {
+      "name": "IP Address: 172.91.76.65",
+      "session": {
+        "created_timestamp": 1515995223,
+        "updated_timestamp": 1524582712,
+        "ip_address": "172.91.76.65"
+      }
+    },
+    {
+      "name": "IP Address: 2606:6000:ce0c:6500:9016:532a:f33:5657",
+      "session": {
+        "created_timestamp": 1524190756,
+        "ip_address": "2606:6000:ce0c:6500:9016:532a:f33:5657"
+      }
+    },
+    {
+      "name": "IP Address: 64.118.102.170",
+      "session": {
+        "created_timestamp": 1523804049,
+        "ip_address": "64.118.102.170"
+      }
+    },
+    {
+      "name": "IP Address: 66.87.134.35",
+      "session": {
+        "created_timestamp": 1523766637,
+        "ip_address": "66.87.134.35"
+      }
+    },
+    {
+      "name": "IP Address: 70.42.240.30",
+      "session": {
+        "created_timestamp": 1519492585,
+        "updated_timestamp": 1523589925,
+        "ip_address": "70.42.240.30"
+      }
+    },
+    {
+      "name": "IP Address: 99.203.10.96",
+      "session": {
+        "created_timestamp": 1517803607,
+        "updated_timestamp": 1523124736,
+        "ip_address": "99.203.10.96"
+      }
+    },
+    {
+      "name": "IP Address: 4.15.165.222",
+      "session": {
+        "created_timestamp": 1522449938,
+        "ip_address": "4.15.165.222"
+      }
+    },
+    {
+      "name": "IP Address: 98.176.89.61",
+      "session": {
+        "created_timestamp": 1520103477,
+        "ip_address": "98.176.89.61"
+      }
+    },
+    {
+      "name": "IP Address: 71.177.221.212",
+      "session": {
+        "created_timestamp": 1518559640,
+        "ip_address": "71.177.221.212"
+      }
+    },
+    {
+      "name": "IP Address: 99.203.11.195",
+      "session": {
+        "created_timestamp": 1517673939,
+        "ip_address": "99.203.11.195"
+      }
+    },
+    {
+      "name": "Estimated location inferred from IP 34.08, -118.352",
+      "session": {
+        "created_timestamp": 1485896335,
+        "updated_timestamp": 1524582712
+      }
+    },
+    {
+      "name": "Estimated location inferred from IP 32.848, -117.208",
+      "session": {
+        "created_timestamp": 1524190756,
+        "ip_address": "2606:6000:ce0c:6500:9016:532a:f33:5657"
+      }
+    },
+    {
+      "name": "Estimated location inferred from IP 37.328, -119.664",
+      "session": {
+        "created_timestamp": 1523804049,
+        "ip_address": "64.118.102.170"
+      }
+    },
+    {
+      "name": "Estimated location inferred from IP 38.56, -121.424",
+      "session": {
+        "created_timestamp": 1523766637,
+        "ip_address": "66.87.134.35"
+      }
+    },
+    {
+      "name": "Estimated location inferred from IP 33.064, -117.032",
+      "session": {
+        "created_timestamp": 1520103477
+      }
+    },
+    {
+      "name": "Estimated location inferred from IP 33.944, -118.352",
+      "session": {
+        "created_timestamp": 1519492585
+      }
+    },
+    {
+      "name": "Estimated location inferred from IP 33.992, -118.528",
+      "session": {
+        "created_timestamp": 1518559640
+      }
+    }
+  ]
+}

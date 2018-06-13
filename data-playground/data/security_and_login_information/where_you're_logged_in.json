@@ -1,0 +1,52 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523135591,
+      "updated_timestamp": 1525804672,
+      "ip_address": "98.176.89.61",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+      "datr_cookie": "61ZV********************",
+      "device": "Windows PC",
+      "location": "Escondido, CA, United States"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1518559641,
+      "updated_timestamp": 1525742298,
+      "ip_address": "98.176.89.61",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+      "datr_cookie": "FLhw********************",
+      "device": "Mac",
+      "location": "Escondido, CA, United States"
+    },
+    {
+      "name": "Chrome for iOS",
+      "created_timestamp": 1515995224,
+      "updated_timestamp": 1525629999,
+      "ip_address": "99.203.10.128",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/65.0.3325.152 Mobile/15E216 Safari/604.1",
+      "datr_cookie": "P0Bc********************",
+      "device": "iPhone",
+      "location": "Los Angeles, CA, United States"
+    },
+    {
+      "name": "Mobile Safari",
+      "created_timestamp": 1524862547,
+      "ip_address": "98.176.89.61",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1",
+      "datr_cookie": "GTIL********************",
+      "device": "iPhone",
+      "location": "Escondido, CA, United States"
+    },
+    {
+      "name": "Mobile Safari",
+      "created_timestamp": 1523124737,
+      "ip_address": "99.203.10.35",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A432 Safari/604.1",
+      "datr_cookie": "-QnJ********************",
+      "device": "iPhone",
+      "location": "Los Angeles, CA, United States"
+    }
+  ]
+}
